@@ -1,12 +1,5 @@
 [
   {
-    "id": "t1",
-    "name": "Bohemian Rhapsody (Demo)",
-    "artist": "SoundHelix",
-    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-    "liked": false
-  },
-  {
     "id": "t2",
     "name": "Senja di Ujung Senin",
     "artist": "SoundHelix",
